@@ -101,11 +101,11 @@ using pliers is probably sufficient as the weld isn't super strong. If you are a
 start drilling make sure to remove the power supply from the case and disconnect all the wiring. Transfer the holes with the jig using a center punch, then
 continue drilling the four holes for each of the motor positions.
 
-![SR AWD jig](/_site/assets/images/sr/sr_awd_motor.jpg)
+![SR AWD jig](/assets/images/sr/sr_awd_motor.jpg)
 
 Once the holes are drilled, you can screw down the motor using the M3x8mm bolts. It is advised to add M3 washers between the bolts and the holes.
 
-![SR AWD motor mounted](/_site/assets/images/sr/sr_awd_motor_screws.jpg)
+![SR AWD motor mounted](/assets/images/sr/sr_awd_motor_screws.jpg)
 
 
 ### Adding the AWD belt
