@@ -1,0 +1,86 @@
+{"0": {
+    "doc": "All-Wheel Drive",
+    "title": "DeltaWerken Super Racer · All-Wheel Drive mod",
+    "content": "This modification to the FLSUN Super Racer changes the A/B/C axis configuration by extending it to two active motors per axis and swapping the motion parts for a more durable option. ",
+    "url": "/sr/awd.html#deltawerken-super-racer--all-wheel-drive-mod",
+    
+    "relUrl": "/sr/awd.html#deltawerken-super-racer--all-wheel-drive-mod"
+  },"1": {
+    "doc": "All-Wheel Drive",
+    "title": "Required materials",
+    "content": "Bolts and other fasteners . | Size | Type | Amoun | Stores | . | M3x8 | ISO 4762 / DIN 912 | 12 | … | . Motion components . | Type | Variant | Amount | Unit | Stores | . | Open timing belt | GT2 10mm | 6 | meter |   | . | Motor pulley | GT2 5mm for 10mm belt 20T or | 6 | piece | Mellow | . |   | or | 6 | piece | Powge | . |   | or | 6 | piece | Kis-3D | . | Stepper motor | LDO 42STH48-2504AC-R or | 6 | piece |   | . | Stepper motor | LDO 42STH48-2504AC or | 6 | piece |   | . | Stepper motor | E3D High Torque 0.9° | 6 | piece |   | . Electronics . | Type | Variant | Amount | Unit | Stores | . | Stepper cable | Stranded 1.5m, JST-PH6 to JST-XH4 | 3 | piece |   | . | Controller | See the options below | 1 | piece |   | . Controller expandsion (option 1) . The FLSUN Super Racer comes with either a BTT SKR v1.3, or an MKS Robin Nano V3 controller board. Both of these boards can be extended over the EXP1/EXP2 ports with an affordible BTT EXP-MOT extension board. This option is recommended for the budget concious builds. | Type | Variant | Amount | Unit | Stores | . | Controller | BTT EXP-MOT [^1] | 1 | piece |   | . | Driver | TMC2209 [^1] | 3 | piece |   | . ",
+    "url": "/sr/awd.html#required-materials",
+    
+    "relUrl": "/sr/awd.html#required-materials"
+  },"2": {
+    "doc": "All-Wheel Drive",
+    "title": "Optional materials",
+    "content": "Linear rails . Replacing the linear rails is completely optional and may not be required if the stock rails run smoothly! . | Size | Type | Amount | Stores | . | 600mm | MGN12H | 3 | CNA | . |   |   | 3 | Usongshine | . ",
+    "url": "/sr/awd.html#optional-materials",
+    
+    "relUrl": "/sr/awd.html#optional-materials"
+  },"3": {
+    "doc": "All-Wheel Drive",
+    "title": "Required tools",
+    "content": "| Type | Variant | Amount | Unit | Stores | . | Center punch | Any | 1 | piece | For marking the holes in the printed template | . | Drill | Electric | 1 | piece | High RPM for drilling through aluminium | . | Drill bit | 3.2mm for metal (aluminium) | 1 | piece | Suitable for drilling alumium | . | Tape | Any | 3 | piece | Easy to remove tape to prevent burring | . ",
+    "url": "/sr/awd.html#required-tools",
+    
+    "relUrl": "/sr/awd.html#required-tools"
+  },"4": {
+    "doc": "All-Wheel Drive",
+    "title": "Printed parts",
+    "content": "| File | Amount | Description | . | sr_awd_jig.stl | 3 | Bottom motor mounting plate, use a heat resistent plastic like ASA or PC(CF) | . ",
+    "url": "/sr/awd.html#printed-parts",
+    
+    "relUrl": "/sr/awd.html#printed-parts"
+  },"5": {
+    "doc": "All-Wheel Drive",
+    "title": "Making the required hardware modifications",
+    "content": "Adding the AWD motors . Start off by printing the AWD jigs, you will need them for aligning the mounting holes, as well as aligning the motor in the already existing hole. Remove the bottom part of the printer by detaching the power cable going to the top electronics bay, continue by removing the 4 M5x12mm screws from the columns. The base of the printer should be free now. Continue with removing the bottom lid button head screws until you have access to the bottom bay: . The drill jig fits nicely against the spacers inside the frame. Do mind that you may have to remove the vertical post that the mains wiring is attached to, using pliers is probably sufficient as the weld isn’t super strong. If you are afraid of damaging the case, use a rotary cut tool or a hacksaw. Before you start drilling make sure to remove the power supply from the case and disconnect all the wiring. Transfer the holes with the jig using a center punch, then continue drilling the four holes for each of the motor positions. Once the holes are drilled, you can screw down the motor using the M3x8mm bolts. It is advised to add M3 washers between the bolts and the holes. Adding the AWD belt . Soon! ™ . ",
+    "url": "/sr/awd.html#making-the-required-hardware-modifications",
+    
+    "relUrl": "/sr/awd.html#making-the-required-hardware-modifications"
+  },"6": {
+    "doc": "All-Wheel Drive",
+    "title": "All-Wheel Drive",
+    "content": " ",
+    "url": "/sr/awd.html",
+    
+    "relUrl": "/sr/awd.html"
+  },"7": {
+    "doc": "Super Racer",
+    "title": "DeltaWerken Super Racer",
+    "content": "The DeltaWerken Super Racer is a modification of the FLSUN Super Racer delta 3D-printer. The key features are: . | All-Wheel Driver (AWD) with 6 active stepper motors, 2 per axis | Choices for stock, bowden drive and direct drive toolheads | Affordable build based on an existing commercial off-the-shelve printer | . ",
+    "url": "/sr#deltawerken-super-racer",
+    
+    "relUrl": "/sr#deltawerken-super-racer"
+  },"8": {
+    "doc": "Super Racer",
+    "title": "Modifications",
+    "content": "The following modifications for the DeltaWerken Super Racer are available: . | All-Wheel Drive | … | . ",
+    "url": "/sr#modifications",
+    
+    "relUrl": "/sr#modifications"
+  },"9": {
+    "doc": "Super Racer",
+    "title": "Super Racer",
+    "content": " ",
+    "url": "/sr",
+    
+    "relUrl": "/sr"
+  },"10": {
+    "doc": "Welcome",
+    "title": "Welcome",
+    "content": "This documentation will provide you details on how to get started with your own DeltaWerken delta 3D-printer build. | The documentation is still a work in progress so keep in mind it’s not complete. | . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"11": {
+    "doc": "Welcome",
+    "title": "Getting started",
+    "content": "There is currenly one project that is available. DeltaWerken Super Racer . The DeltaWerken Super Racer is a modification of the FLSUN Super Racer delta 3D-printer. The key features are: . | All-Wheel Driver (AWD) with 6 active stepper motors, 2 per axis | Choices for stock, bowden drive and direct drive toolheads | Affordable build based on an existing commercial off-the-shelve printer | . Discord . We’re a big Discord advocate! We love using it and building a community. Missing something in the documentation, need assistance, share your adventure, or enjoy a nice community? Join our Discord today! . License . Our work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License . ",
+    "url": "/#getting-started",
+    
+    "relUrl": "/#getting-started"
+  }
+}
