@@ -1,13 +1,13 @@
 ---
 layout: default
 title: All-Wheel Drive
-nav_order: 3
+nav_order: 2
 has_toc: true
 permalink: /sr/awd.html
 parent: Super Racer
 ---
 
-# DeltaWerken Super Racer &middot; All-Wheel Drive mod
+# All-Wheel Drive mod
 
 This modification to the [FLSUN Super Racer] changes the A/B/C axis configuration by extending it to two active motors per axis and swapping the motion parts for a more durable option.
 
@@ -49,10 +49,12 @@ This modification to the [FLSUN Super Racer] changes the A/B/C axis configuratio
 
 The FLSUN Super Racer comes with either a BTT SKR v1.3, or an MKS Robin Nano V3 controller board. Both of these boards can be extended over the `EXP1`/`EXP2` ports with an affordible BTT EXP-MOT extension board. This option is recommended for the budget concious builds.
 
-| Type             | Variant                             | Amount | Unit  |                           Stores                            |
-|:-----------------|:------------------------------------|-------:|:------|:------------------------------------------------------------|
-| Controller       | BTT EXP-MOT [^1]                    |      1 | piece |                                                             |
-| Driver           | TMC2209 [^1]                        |      3 | piece |                                                             |
+| Type             | Variant                             | Amount |                            Stores                            |
+|:-----------------|:------------------------------------|-------:|:------------------------------------------------------------|
+| Controller       | BTT EXP-MOT [^1]                    |      1 | [BigTreeTech](https://s.click.aliexpress.com/e/_DEiM4DB)    |
+| Driver           | TMC2209 [^1]                        |      3 | [BigTreeTech](https://s.click.aliexpress.com/e/_DDnxstR)    |
+|                  |                                     |        | [Fysetc](https://s.click.aliexpress.com/e/_DExUfiN)         |
+|                  |                                     |        | [Mellow](https://s.click.aliexpress.com/e/_DC6j8ip)         |
 
 ## Optional materials
 
