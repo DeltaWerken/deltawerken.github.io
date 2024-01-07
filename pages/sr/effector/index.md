@@ -29,11 +29,11 @@ Supported hotends:
 - [Phaetus Rapido UHF](effector/hotend_rapido.html)
 
 Supported extruders:
-- VzHextrudORT
-- VzHextrudORT CNC
-- Sherpa Micro
-- Sherpa Micro CNC
-- Bondtech LGX Lite
+- [VzHextrudORT](effector/extruder_vzhextrudort.html)
+- [VzHextrudORT CNC](effector/extruder_vzhextrudort.html)
+- [Sherpa Micro](effector/extruder_sherpa_micro.html)
+- [Sherpa Micro CNC](effector/extruder_sherpa_micro.html)
+- [Bondtech LGX Lite](effector/extruder_lgx_lite.html)
 
 ## Printed effector plate
 
