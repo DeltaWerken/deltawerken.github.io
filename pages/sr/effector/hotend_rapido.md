@@ -18,8 +18,8 @@ grand_parent: Super Racer
 | V1 UHF or V2 UHF | Rapido Hotend                     |      1 | piece | [Trianglelab](https://s.click.aliexpress.com/e/_DeSFiF7)    |
 | M2.5x6mm         | Countersink screws                |      4 | piece | To mount Rapido to the effector                             |
 | 24V axial fan    | 2510 or 3010                      |      1 | piece | To cool the Rapido heatsink                                 |
-| PTFE tube        | 1.9mm ID, 27.8mm for Sherpa Micro |      1 | piece |                                                             |
-|                  | 1.9mm ID, 28mm for LGX Lite       |      1 | piece |                                                             |
+| PTFE tube        | 1.9mm ID, 25.8mm for Sherpa Micro |      1 | piece |                                                             |
+|                  | 1.9mm ID, 26mm for LGX Lite       |      1 | piece |                                                             |
 {: class="transparant_table"}
 
 ## Required parts for Adaptor mounting
