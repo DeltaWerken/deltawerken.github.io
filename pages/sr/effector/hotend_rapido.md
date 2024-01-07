@@ -9,7 +9,7 @@ grand_parent: Super Racer
 
 # Rapido hotend
 
-![Rapido hotend](/assets/images/sr/effector/hotend_rapidogit .png)
+![Rapido hotend](/assets/images/sr/effector/hotend_rapido.png)
 
 ## Required parts for Rigid mounting
 
