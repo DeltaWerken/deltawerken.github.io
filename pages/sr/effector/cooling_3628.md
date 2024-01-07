@@ -15,8 +15,8 @@ grand_parent: Super Racer
 
 | Type             | Variant                           | Amount | Unit  |                           Stores                            |
 |:-----------------|:----------------------------------|-------:|:------|:------------------------------------------------------------|
-| Axial fan        | 3628                              |      2 | piece |                                                             |
-| M3x8mm           | Stand-off                         |      4 | piece |                                                             |
+| Axial fan        | 3628                              |      2 | piece | DigiKey, Mouser, Farnell, [YX](https://s.click.aliexpress.com/e/_DEznYJ7) |
+| M3x8mm           | Stand-off                         |      4 | piece | [Osing](https://s.click.aliexpress.com/e/_DciWbl3)          |
 | M3x35mm          | Button Head Cap Screw             |      4 | piece |                                                             |
 | M3x6mm           | Button Head Cap Screw (optional)  |      4 | piece |                                                             |
 | M3x4x4mm         | Heat Set Insert (optional)        |      4 | piece | Small M3 heat set insert to melt into the fan               |
