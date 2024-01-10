@@ -21,7 +21,3 @@ The key features are:
 ## Modifications
 
 The following modifications for the DeltaWerken Super Racer are available:
-* [All-Wheel Drive]
-* ...
-
-[All-Wheel Drive]: /sr/awd.html
