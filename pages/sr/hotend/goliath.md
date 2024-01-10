@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Hotend - VzBoT Goliath
-nav_order: 10
-permalink: /sr/effector/hotend_goliath.html
-parent: Effector
+title: Goliath
+nav_order: 1
+permalink: /sr/hotend/goliath.html
+parent: Hotend
 grand_parent: Super Racer
 ---
 
 # Goliath hotend
 
-![Goliath hotend](/assets/images/sr/effector/hotend_goliath.png)
+![Goliath hotend](/assets/images/sr/hotend/goliath.png)
 
 ## Required parts for Goliath Air &amp; Goliath Water Cooled
 

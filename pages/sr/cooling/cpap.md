@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Cooling - CPAP
-nav_order: 30
-permalink: /sr/effector/cooling_cpap.html
-parent: Effector
+title: CPAP
+nav_order: 2
+permalink: /sr/cooling/cpap.html
+parent: Cooling
 grand_parent: Super Racer
 ---
 
 # CPAP cooling
 
-![Cooling CPAP](/assets/images/sr/effector/cooling_cpap.png)
+![Cooling CPAP](/assets/images/sr/cooling/cpap.png)
 
 ## Required parts
 

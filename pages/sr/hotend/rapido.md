@@ -1,17 +1,21 @@
 ---
 layout: default
-title: Hotend - Rapido
-nav_order: 11
-permalink: /sr/effector/hotend_rapido.html
-parent: Effector
+title: Rapido
+nav_order: 2
+permalink: /sr/hotend/rapido.html
+parent: Hotend
 grand_parent: Super Racer
 ---
 
 # Rapido hotend
 
-![Rapido hotend](/assets/images/sr/effector/hotend_rapido.png)
+![Rapido hotend](/assets/images/sr/hotend/rapido.png)
 
-## Required parts for Rigid mounting
+We provide two options for mounting the Rapido hotend:
+1. Rigid mounting it to the effector plate, most solid connection and works well with most extruders. Note that for example LGX Lite may require a printed top adapter plate.
+2. Adaptor mounting it to the effector plate, this is compatible with the Vz Printhead ecosystem.
+
+## Required parts for *rigid* mounting
 
 | Type             | Variant                           | Amount | Unit  |                           Stores                            |
 |:-----------------|:----------------------------------|-------:|:------|:------------------------------------------------------------|
@@ -22,7 +26,7 @@ grand_parent: Super Racer
 |                  | 1.9mm ID, 26mm for LGX Lite       |      1 | piece |                                                             |
 {: class="transparant_table"}
 
-## Required parts for Adaptor mounting
+## Required parts for *adaptor* mounting
 
 | Type             | Variant                           | Amount | Unit  |                           Stores                            |
 |:-----------------|:----------------------------------|-------:|:------|:------------------------------------------------------------|
