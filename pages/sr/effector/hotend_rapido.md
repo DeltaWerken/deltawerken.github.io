@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hotend - Rapido
-nav_order: 2
+nav_order: 11
 permalink: /sr/effector/hotend_rapido.html
 parent: Effector
 grand_parent: Super Racer

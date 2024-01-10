@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Extruder - LGX Lite
-nav_order: 5
+nav_order: 22
 permalink: /sr/effector/extruder_lgx_lite.html
 parent: Effector
 grand_parent: Super Racer

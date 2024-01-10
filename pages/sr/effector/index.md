@@ -37,4 +37,6 @@ Supported extruders:
 
 ## Printed effector plate
 
-Soon! &trade;
+The printed effector plate is compatible with different hotends and extruders too. You also get to choose between two variants:
+- [Using the FLSUN SuperRacer stock pins and screws](/sr/effector/effector_printed_stock.md)
+- [Using M3 ball ends](/sr/effector/effector_printed_ball_ends.md)

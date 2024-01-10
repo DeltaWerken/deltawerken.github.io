@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Extruder - Vz-HextrudORT
-nav_order: 4
+nav_order: 20
 permalink: /sr/effector/extruder_vzhextrudort.html
 parent: Effector
 grand_parent: Super Racer
@@ -9,7 +9,7 @@ grand_parent: Super Racer
 
 # Vz-HextrudORT extruder
 
-![Vz-HextrudORT-Low](/assets/images/sr/effector/extruder_vzhextrudort.png)
+![Vz-HextrudORT-Low](/assets/images/sr/effector/extruder_vzhextrudortmv .png)
 
 ## Required parts
 

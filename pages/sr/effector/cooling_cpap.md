@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cooling - CPAP
-nav_order: 16
+nav_order: 30
 permalink: /sr/effector/cooling_cpap.html
 parent: Effector
 grand_parent: Super Racer

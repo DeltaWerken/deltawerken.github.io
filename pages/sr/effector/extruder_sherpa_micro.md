@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Extruder - Sherpa Micro
-nav_order: 4
+nav_order: 21
 permalink: /sr/effector/extruder_sherpa_micro.html
 parent: Effector
 grand_parent: Super Racer

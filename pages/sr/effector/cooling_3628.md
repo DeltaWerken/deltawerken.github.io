@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cooling - 3628 fans
-nav_order: 15
+nav_order: 31
 permalink: /sr/effector/cooling_3628.html
 parent: Effector
 grand_parent: Super Racer

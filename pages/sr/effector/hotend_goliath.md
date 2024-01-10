@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hotend - VzBoT Goliath
-nav_order: 1
+nav_order: 10
 permalink: /sr/effector/hotend_goliath.html
 parent: Effector
 grand_parent: Super Racer
