@@ -9,6 +9,9 @@ grand_parent: Super Racer
 
 # Sherpa Micro extruder
 
+{: .highlight }
+This component is in [beta](/sr/faq.html#what-is-the-state-of-the-project) state.
+
 ![Sherpa Micro](/assets/images/sr/extruder/sherpa_micro.png)
 
 ## Required parts for Sherpa Micro CNC

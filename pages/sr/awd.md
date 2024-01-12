@@ -9,6 +9,9 @@ parent: Super Racer
 
 # All-Wheel Drive mod
 
+{: .highlight }
+This component is in [alpha](/sr/faq.html#what-is-the-state-of-the-project) state.
+
 This modification to the [FLSUN Super Racer] changes the A/B/C axis configuration by extending it to two active motors per axis and swapping the motion parts for a more durable option.
 
 [FLSUN Super Racer]: https://s.click.aliexpress.com/e/_DCdslDF

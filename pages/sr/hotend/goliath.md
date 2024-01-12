@@ -9,6 +9,9 @@ grand_parent: Super Racer
 
 # Goliath hotend
 
+{: .highlight }
+This component is in [alpha](/sr/faq.html#what-is-the-state-of-the-project) state.
+
 ![Goliath hotend](/assets/images/sr/hotend/goliath.png)
 
 ## Required parts for Goliath Air &amp; Goliath Water Cooled

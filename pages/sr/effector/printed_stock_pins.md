@@ -9,6 +9,9 @@ grand_parent: Super Racer
 
 # Printed effector with stock pins
 
+{: .highlight }
+This component is in [alpha](/sr/faq.html#what-is-the-state-of-the-project) state.
+
 ![Effector with FLSUN stock pins](/assets/images/sr/effector/effector_printed_stock_pins.png)
 
 Using the [effector_stock_pins.stl](https://github.com/DeltaWerken/SuperRacer/raw/main/stl/effector/effector_stock_pins.stl?download=) printed effector plate, you can repurpose the stock FLSUN Super Racer pins and set screws.

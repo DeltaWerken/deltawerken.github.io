@@ -9,6 +9,9 @@ grand_parent: Super Racer
 
 # Rapido hotend
 
+{: .highlight }
+This component is in [alpha](/sr/faq.html#what-is-the-state-of-the-project) state.
+
 ![Rapido hotend](/assets/images/sr/hotend/rapido.png)
 
 We provide two options for mounting the Rapido hotend:

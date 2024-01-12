@@ -9,6 +9,9 @@ grand_parent: Super Racer
 
 # Bondtech LGX Lite extruder
 
+{: .highlight }
+This component is in [beta](/sr/faq.html#what-is-the-state-of-the-project) state.
+
 ![Bondtech LGX Lite](/assets/images/sr/extruder/lgx_lite.png)
 
 ## Required parts

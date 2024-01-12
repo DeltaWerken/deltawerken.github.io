@@ -26,7 +26,7 @@ The key features are:
 
 ### Discord
 
-We're a big [<i class="bi bi-discord"></i> Discord](https://discord.gg) advocate! We love using it and building a community. Missing something in the documentation, need assistance, share your adventure, or enjoy a nice community? Join our [<i class="bi bi-discord"></i> Discord](https://discord.gg) today!
+We're a big [<i class="bi bi-discord"></i> Discord](https://discord.gg/jz2dTMYj5d) advocate! We love using it and building a community. Missing something in the documentation, need assistance, share your adventure, or enjoy a nice community? Join our [<i class="bi bi-discord"></i> Discord](https://discord.gg/jz2dTMYj5d) today!
 
 ### License
 

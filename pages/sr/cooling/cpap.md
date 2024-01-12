@@ -9,6 +9,9 @@ grand_parent: Super Racer
 
 # CPAP cooling
 
+{: .highlight }
+This component is in [alpha](/sr/faq.html#what-is-the-state-of-the-project) state.
+
 ![Cooling CPAP](/assets/images/sr/cooling/cpap.png)
 
 ## Required parts

@@ -9,6 +9,9 @@ grand_parent: Super Racer
 
 # Vz-HextrudORT extruder
 
+{: .highlight }
+This component is in [beta](/sr/faq.html#what-is-the-state-of-the-project) state.
+
 ![Vz-HextrudORT-Low](/assets/images/sr/extruder/vzhextrudort.png)
 
 ## Required parts

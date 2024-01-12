@@ -9,6 +9,9 @@ grand_parent: Super Racer
 
 # CNC effector
 
+{: .highlight }
+This component is in [alpha](/sr/faq.html#what-is-the-state-of-the-project) state.
+
 ![CNC effector](/assets/images/sr/effector/effector_cnc.png)
 
 This is the most rigid effector plate option.
